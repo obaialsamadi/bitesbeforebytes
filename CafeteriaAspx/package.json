@@ -1,0 +1,14 @@
+{
+  "name": "mypkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "obai",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
